@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+    int b[] ={11,45,73,84,97};
+
+    cout << b[0]<<endl;
+
+    cout << b[2]<<endl;
+
+    return 0;
+}
